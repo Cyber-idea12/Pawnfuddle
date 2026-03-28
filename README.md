@@ -23,13 +23,15 @@ Pawnfuddle generates valid Chess960 (Fischer Random) starting positions, prints 
 ```bash
 git clone https://github.com/yourusername/pawnfuddle.git
 cd pawnfuddle
-
+``````
 Ensure Python 3 is installed.
 
 Run directly:
 
 ```bash
 python chess960.py [flags]
+
+``````
 
 No additional dependencies are requir
 
@@ -42,30 +44,42 @@ No additional dependencies are requir
 ```bash
 python chess960.py
 
+``````
+
 ### Generate multiple positions
 
 ```bash
 python chess960.py --count 5
+
+``````
 
 ### Print FEN only
 
 ```bash
 python chess960.py --fen
 
+``````
+
 ### Use a seed for reproducible positions
 
 ```bash
 python chess960.py --seed 42 --count 3
+
+``````
 
 ### Flip the board upside-down
 
 ```bash
 python chess960.py --flip
 
+``````
+
 ### Combine flags
 
 ```bash
 python chess960.py --count 3 --fen --seed 123 --flip
+
+``````
 
 ---
 
