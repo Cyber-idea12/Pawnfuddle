@@ -98,6 +98,8 @@ python chess960.py --count 3 --fen --seed 123 --flip
 ## Example Output
 
 ### ASCII Board
+
+```bash
 r n b q k b n r
 p p p p p p p p
 . . . . . . . .
@@ -107,8 +109,14 @@ p p p p p p p p
 P P P P P P P P
 R N B Q K B N R
 
+``````
+
 ### FEN
+
+```bash
 rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+
+``````
 
 
 ---
