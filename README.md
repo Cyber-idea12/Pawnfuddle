@@ -21,7 +21,7 @@ Pawnfuddle generates valid Chess960 (Fischer Random) starting positions, prints 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pawnfuddle.git
+git clone https://github.com/Cyber-idea12/Pawnfuddle.git
 cd pawnfuddle
 ``````
 Ensure Python 3 is installed.
