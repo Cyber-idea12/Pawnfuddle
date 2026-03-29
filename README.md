@@ -128,4 +128,4 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT (MIT)](LICENSE)License.
